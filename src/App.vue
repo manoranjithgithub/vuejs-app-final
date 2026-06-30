@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your premium Pro Vue.js App 1"/>
+  <HelloWorld msg="Premium Pro Vue.js App 1"/>
 </template>
 
 <script>
